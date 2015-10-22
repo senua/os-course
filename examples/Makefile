@@ -1,3 +1,5 @@
 CFLAGS += -Wall -Werror
-all: fifo
+LDLIBS=-pthread
+all: fifo thread
+thread: thread.c
 fifo: fifo.c
