@@ -19,7 +19,9 @@
 	* участие(успешное) в проектах с открытым исходным кодом
 		* пример [CRIU](https://github.com/xemul/criu)
 
-### ДЗ: [FIFO](task-fifo.md)
+### ДЗ:
+[FORK](task-fork.md)
+[FIFO](task-fifo.md)
 
 [Таблица посещаемости](https://goo.gl/p3JRbA)
 
