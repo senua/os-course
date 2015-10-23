@@ -23,6 +23,7 @@
 [FORK](task-fork.md)
 [FIFO](task-fifo.md)
 [SHMEM](task-shmem.md)
+[PTHREAD](task-pthread.md)
 
 [Таблица посещаемости](https://goo.gl/p3JRbA)
 
