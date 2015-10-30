@@ -24,6 +24,7 @@
 [FIFO](task-fifo.md)
 [SHMEM](task-shmem.md)
 [PTHREAD](task-pthread.md)
+[SEMAPHOR](task-semaphor.md)
 
 [Таблица посещаемости](https://goo.gl/p3JRbA)
 
