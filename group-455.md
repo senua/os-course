@@ -25,6 +25,9 @@
 [SHMEM](task-shmem.md)
 [PTHREAD](task-pthread.md)
 [SEMAPHOR](task-semaphor.md)
+[MQUEUE](task-mqueue.md)
+
+И напишите полноценный чат на сокетах по сети на бонус.
 
 [Таблица посещаемости](https://goo.gl/p3JRbA)
 
